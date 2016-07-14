@@ -116,11 +116,21 @@ h3 {
 /* ============ Portfolio ============ */
 
 .row-1 {
-	background-color: #87b781;
 	padding: 60px;
+	background-color: #87b781;
 }
 
 .row-1 img {
+	width: 100%;
+	border: 10px solid #000;
+}
+
+.row-2 {
+	padding: 60px;
+	background-color: #8990bd;
+}
+
+.row-2 img {
 	width: 100%;
 	border: 10px solid #000;
 }
