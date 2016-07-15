@@ -43,18 +43,15 @@ figcaption h4 {
 .navbar-default {
 	background-color: #f2d76c;
 }
-
 .navbar-default .navbar-nav > li > a {
 	font-weight: bold;
 	color: #333;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-
 .navbar-default .navbar-nav > li > a:hover {
 	color: #8cc9d4;
 }
-
 .navbar-default .navbar-nav > li > a:focus {
 	color: #8990bd;
 }
@@ -70,11 +67,9 @@ figcaption h4 {
 	padding-top: 140px;
 	padding-bottom: 60px;
 }
-
 .img-circle {
     border: 14px solid #000;
 }
-
 .splash-text {
 	padding-top: 238px;
 	text-align: center;
@@ -86,14 +81,13 @@ figcaption h4 {
 
 #SKILLS {
 	background-color: #8cc9d4;
-	padding-top: 47px;
-	padding-bottom: 35px;
+	padding-top: 40px;
+	padding-bottom: 30px;
 }
-
 #SKILLS p {
-/*    border: 5px solid red;*/
-    padding: 10px 40px;
+    padding: 5px 40px;
     text-align: center;
+    font-size: 14px;
 }
 
 /* ============ Portfolio ============ */
@@ -111,7 +105,7 @@ figcaption h4 {
     color: #8990bd;
 }
 .row-1 {
-	padding: 60px;
+	padding: 50px 60px;
 	background-color: #87b781;
 }
 
@@ -121,7 +115,7 @@ figcaption h4 {
 }
 
 .row-2 {
-	padding: 60px;
+	padding: 50px 60px;
 	background-color: #8990bd;
 }
 
@@ -134,8 +128,7 @@ figcaption h4 {
 /* ========= Contact Me ============= */
 
 .section-title {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 30px 0px;
 }
 
 .contact-me-form .form-control {
