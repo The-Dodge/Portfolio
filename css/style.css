@@ -1,5 +1,15 @@
-/* =========== Colors ============ */
+/* =========== Fonts ============= */
 
+Proxime Nova
+Regular: 400
+Bold 700
+
+Mrs Eaves
+Roman 400
+Bold 700
+
+
+/* =========== Colors ============ */
 
 /*
 Pale Blue: #8cc9d4
@@ -13,24 +23,24 @@ body {
 	overflow-y: scroll;
 	overflow-x: hidden;
 }
-
 p {
+  font-family: 'Mrs Eaves';
 	14px;
 }
-
 h1,
 h2,
 h3 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
-
 h3 {
 	24px;
 }
 
 figcaption h4 {
-	font-weight: 300;
+  font-family: "Mrs Eaves";
+	font-weight: 400;
+  font-style: italic;
 	padding: 10px;
 	color: #fff;
 	font-style: italic;
@@ -62,7 +72,6 @@ figcaption h4 {
 #splash {
 	background-color: #87b781;
 }
-
 .profile-img {
 	padding-top: 140px;
 	padding-bottom: 60px;
@@ -81,12 +90,13 @@ figcaption h4 {
 
 #SKILLS {
 	background-color: #8cc9d4;
-	padding-top: 40px;
+	padding-top: 50px;
 	padding-bottom: 30px;
 }
 #SKILLS p {
     padding: 5px 40px;
     text-align: center;
+    font-family: "Mrs Eaves";
     font-size: 14px;
 }
 
@@ -113,12 +123,10 @@ figcaption h4 {
 	width: 100%;
 	border: 10px solid #000;
 }
-
 .row-2 {
 	padding: 50px 60px;
 	background-color: #8990bd;
 }
-
 .row-2 img {
 	width: 100%;
 	border: 10px solid #000;
@@ -130,7 +138,6 @@ figcaption h4 {
 .section-title {
     padding: 30px 0px;
 }
-
 .contact-me-form .form-control {
     display: block;
     width: 100%;
@@ -142,8 +149,7 @@ figcaption h4 {
     border: 1px solid #8cc9d4;
     border-radius: 0px;
     margin-bottom: 15px;
-    outline: 0px !important;
-    
+    outline: 0px !important;    
 }
 #message {
     height: 117px;
@@ -152,8 +158,7 @@ figcaption h4 {
 .submit-btn,
 .submit-btn:active,
 .submit-btn:focus,
-.submit-btn:visited {
-    
+.submit-btn:visited {   
     background-color: #8cc9d4;
     border-radius: 0px;
     width: 100%;
@@ -172,21 +177,18 @@ figcaption h4 {
 
 .social-icons {
     padding-top: 50px;
-    padding-bottom: 70px;
-    
+    padding-bottom: 70px;   
 }
 .social-icons ul {
     margin:0;
     padding: 0;
-    text-align: center;
-    
+    text-align: center;    
 }
 .social-icons ul li { 
     list-style: none;
     display: inline;
     padding-left: 10px;
 }
-
 .social-icons ul li a {
     text-decoration: none;
     display: inline-block;
@@ -196,8 +198,7 @@ figcaption h4 {
     width: 45px;
     height: 45px;
     line-height: 49px;
-    color: #8cc9d4;
-     
+    color: #8cc9d4;     
 }
 .social-icons ul li a:hover {
     background-color: #8cc9d4;
