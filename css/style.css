@@ -79,43 +79,10 @@ figcaption h4 {
 
 /* ========= Skills ========== */
 
-
-/* -- Develop -- */
-
-.develop {
-	background-color: #8990bd;
-}
-
-.develop-img {
-	/*    background-color: #8990bd;*/
-	padding-top: 40px;
-	padding-bottom: 40px;
-}
-
-
-/* -- Design -- */
-
-.design {
+#SKILLS {
 	background-color: #8cc9d4;
-}
-
-.design-img {
-	/*    background-color: #8cc9d4;*/
 	padding-top: 47px;
-	padding-bottom: 46px;
-}
-
-
-/* -- SEO -- */
-
-.seo {
-	background-color: #f2d76c;
-}
-
-.seo-img {
-	/*    background-color: #f2d76c;*/
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-bottom: 35px;
 }
 
 
