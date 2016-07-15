@@ -136,7 +136,7 @@ figcaption h4 {
 /* ========= Contact Me ============= */
 
 .contact-me {
-  background-color: #f2d76c;
+  background-color: #87b781;
   padding-bottom: 40px;
 }
 .section-title {
@@ -178,6 +178,10 @@ figcaption h4 {
 }
 
 /* ========= Footer ============= */
+
+.footer {
+  background-color: #f2d76c;
+}
 
 .social-icons {
     padding-top: 50px;
