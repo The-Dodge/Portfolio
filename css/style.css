@@ -51,7 +51,7 @@ figcaption h4 {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #87b781;
+	color: #8cc9d4;
 }
 
 .navbar-default .navbar-nav > li > a:focus {
@@ -121,6 +121,18 @@ figcaption h4 {
 
 /* ============ Portfolio ============ */
 
+#PORTFOLIO a {
+  text-decoration: underline;
+    color: #fff;
+}
+
+#PORTFOLIO a:hover {
+    color: #8cc9d4;
+}
+
+#PORTFOLIO a:focus {
+    color: #8990bd;
+}
 .row-1 {
 	padding: 60px;
 	background-color: #87b781;
@@ -210,7 +222,7 @@ figcaption h4 {
 }
 .social-icons ul li a:hover {
     
-    background-color: #129CF3;
+    background-color: #8cc9d4;
     border: 1px solid #129CF3;
     color: #fff;
 } 
