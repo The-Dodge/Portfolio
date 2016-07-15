@@ -40,7 +40,7 @@ h3 {
 figcaption h4 {
   font-family: "Mrs Eaves";
 	font-weight: 400;
-  font-style: italic;
+  font-style: italic
 	padding: 10px;
 	color: #fff;
 	font-style: italic;
@@ -135,6 +135,10 @@ figcaption h4 {
 
 /* ========= Contact Me ============= */
 
+.contact-me {
+  background-color: #f2d76c;
+  padding-bottom: 40px;
+}
 .section-title {
     padding: 30px 0px;
 }
