@@ -19,7 +19,8 @@ p {
 }
 
 h1,
-h2 {
+h2,
+h3 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -65,9 +66,13 @@ figcaption h4 {
 	background-color: #87b781;
 }
 
-.briefcase-img {
+.profile-img {
 	padding-top: 140px;
 	padding-bottom: 60px;
+}
+
+.img-circle {
+    border: 14px solid #000;
 }
 
 .splash-text {
@@ -85,6 +90,11 @@ figcaption h4 {
 	padding-bottom: 35px;
 }
 
+#SKILLS p {
+/*    border: 5px solid red;*/
+    padding: 10px 40px;
+    text-align: center;
+}
 
 /* ============ Portfolio ============ */
 
@@ -120,7 +130,13 @@ figcaption h4 {
 	border: 10px solid #000;
 }
 
+
 /* ========= Contact Me ============= */
+
+.section-title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 
 .contact-me-form .form-control {
     display: block;
@@ -158,6 +174,9 @@ figcaption h4 {
     background: #87b781;
     color: #fff;
 }
+
+/* ========= Footer ============= */
+
 .social-icons {
     padding-top: 50px;
     padding-bottom: 70px;
@@ -188,7 +207,6 @@ figcaption h4 {
      
 }
 .social-icons ul li a:hover {
-    
     background-color: #8cc9d4;
     border: 1px solid #129CF3;
     color: #fff;
